@@ -3,7 +3,7 @@ This is my project on analyzing the competitive landscape of Amazon and Flipkart
 
 The dataset from: https://www.kaggle.com/datasets/mandan/amazon-vs-flipkart-book-prices
 
-Firstly, I clean the data using Power Query and Practicing analyze it using Power Pivot
-Sencondly, I use Power BI to visualize key metrics, which can be useful for monitoring, understanding the price strategy of each platform
+Firstly, I clean the data using Power Query and Practicing analyze it using Power Pivot.
+Secondly, I use Power BI to visualize key metrics, which can be useful for monitoring, understanding the price strategy of each platform.
 
 I hope this project can be a proven record for my dedication for working in Ecommerce, Retail industr :>
